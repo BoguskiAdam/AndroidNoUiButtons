@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NoHome</string>
+    <string name="button_nextView">Go to the next view</string>
+    <string name="button_previousView">Go to the previous view</string>
+</resources>
